@@ -4,4 +4,7 @@ class Admin::PreferencesController < ApplicationController
   
     end
     
+    def new
+       
+    end
 end 
